@@ -1,0 +1,15 @@
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\bin\Debug\net6.0\Komp.exe
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\bin\Debug\net6.0\Komp.deps.json
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\bin\Debug\net6.0\Komp.runtimeconfig.json
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\bin\Debug\net6.0\Komp.dll
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\bin\Debug\net6.0\Komp.pdb
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.csproj.AssemblyReference.cache
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.AssemblyInfoInputs.cache
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.AssemblyInfo.cs
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.csproj.CoreCompileInputs.cache
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.dll
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\refint\Komp.dll
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.pdb
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\Komp.genruntimeconfig.cache
+C:\Users\henry.gillinger\Desktop\program komp\Komp\Komp\obj\Debug\net6.0\ref\Komp.dll
